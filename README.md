@@ -35,12 +35,12 @@
   &nbsp;&nbsp;
   <img src="./screenshots/contacts1.png" width="100%" alt="Контакты" />
   &nbsp;&nbsp;
-  <img src="./screenshots/login.png" width="100%" alt="Вход" />
+  <img src="./screenshots/login111.png" width="100%" alt="Вход" />
   <br/><br/>
 
   <img src="./screenshots/admin111.png" width="100%" alt="Админ-панель 1" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/admin222.png" width="100%" alt="Админ-панель 2" />
+  <img src="./screenshots/admin2222.png" width="100%" alt="Админ-панель 2" />
   <img src="./screenshots/admin333.png" width="100%" alt="Админ-панель 3" />
   <br/><br/>
 
