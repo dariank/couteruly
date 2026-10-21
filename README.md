@@ -12,33 +12,32 @@
 
   <img src="./screenshots/main111.png" width="100%" alt="Главная страница" />
   <br/><br/>
-  <img src="./screenshots/main222.png" width="49%" alt="Главная страница 2" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/main333.png" width="49%" alt="Главная страница 3" />
-  <br/><br/><br/>
-
-  <img src="./screenshots/catalog1.png" width="49%" alt="Каталог товаров" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/product.png" width="49%" alt="Страница товара" />
-  <br/><br/><br/>
-
-  <img src="./screenshots/cart1.png" width="49%" alt="Корзина" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/search.png" width="49%" alt="Поиск" />
-  <br/><br/><br/>
-
-  <img src="./screenshots/newcollection.png" width="33%" alt="Новая коллекция" />
-  &nbsp;&nbsp;
-  <img src="./screenshots/contacts1.png" width="33%" alt="Контакты" />
-  &nbsp;&nbsp;
-  <img src="./screenshots/login.png" width="33%" alt="Вход" />
-  <br/><br/><br/>
-
-  <img src="./screenshots/admin111.png" width="33%" alt="Админ-панель 1" />
-  &nbsp;&nbsp;
-  <img src="./screenshots/admin222.png" width="33%" alt="Админ-панель 2" />
-  &nbsp;&nbsp;
-  <img src="./screenshots/admin333.png" width="33%" alt="Админ-панель 3" />
+  
+  <img src="./screenshots/main222.png" width="100%" alt="Главная страница 2" />
+  <br/><br/>
+  
+  <img src="./screenshots/main333.png" width="100%" alt="Главная страница 3" />
+  <br/><br/>
+  
+  <img src="./screenshots/catalog1.png" width="100%" alt="Каталог товаров" />
+  <br/><br/>
+  
+  <img src="./screenshots/product.png" width="100%" alt="Страница товара" />
+  <br/><br/>
+  
+  <img src="./screenshots/cart1.png" width="100%" alt="Корзина" />
+  <br/><br/>
+  
+  <img src="./screenshots/search.png" width="100%" alt="Поиск" />
+  <br/><br/>
+  
+  <img src="./screenshots/newcollection.png" width="100%" alt="Новая коллекция" />
+  <br/><br/>
+  
+  <img src="./screenshots/contacts1.png" width="100%" alt="Контакты" />
+  <br/><br/>
+  
+  <img src="./screenshots/login.png" width="100%" alt="Вход" />
   <br/><br/>
 
 </div>
@@ -58,7 +57,7 @@
 
 ##  Как развернуть локально
 1. Создай новую базу данных в phpMyAdmin.
-2. Импортируй в неё файл sql/recipefinder.sql (он лежит в корне проекта в папке sql).
+2. Импортируй в неё файл couteruly.sql.
 3. В папке config/ открой файл db.php и укажи свои локальные настройки (логин и пароль от БД).
 4. Открой проект
 
