@@ -10,7 +10,6 @@
 
 <div align="center">
 
-  <!-- Первые 7 фото большие (100%) -->
   <img src="./screenshots/main111.png" width="100%" alt="Главная страница" />
   <br/><br/>
   
