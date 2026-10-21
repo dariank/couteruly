@@ -10,6 +10,7 @@
 
 <div align="center">
 
+  <!-- Первые 7 фото большие (100%) -->
   <img src="./screenshots/main111.png" width="100%" alt="Главная страница" />
   <br/><br/>
   
@@ -29,15 +30,18 @@
   <br/><br/>
   
   <img src="./screenshots/search.png" width="100%" alt="Поиск" />
-  <br/><br/>
-  
+  <br/><br/><br/>
+
   <img src="./screenshots/newcollection.png" width="100%" alt="Новая коллекция" />
-  <br/><br/>
-  
+  &nbsp;&nbsp;
   <img src="./screenshots/contacts1.png" width="100%" alt="Контакты" />
-  <br/><br/>
-  
+  &nbsp;&nbsp;
   <img src="./screenshots/login.png" width="100%" alt="Вход" />
+  <br/><br/>
+
+  <img src="./screenshots/admin111.png" width="100%" alt="Админ-панель 1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./screenshots/admin222.png" width="100%" alt="Админ-панель 2" />
   <br/><br/>
 
 </div>
@@ -57,7 +61,7 @@
 
 ##  Как развернуть локально
 1. Создай новую базу данных в phpMyAdmin.
-2. Импортируй в неё файл couteruly.sql.
+2. Импортируй в неё файл sql/recipefinder.sql (он лежит в корне проекта в папке sql).
 3. В папке config/ открой файл db.php и укажи свои локальные настройки (логин и пароль от БД).
 4. Открой проект
 
